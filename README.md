@@ -52,7 +52,7 @@
 
 <img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/d6c9415a-b5f5-4bed-a0d0-833d62b72f3f">
 
-<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/90a21d90-df91-4cca-9356-584c7cd9f867">
+
 
 </div>
 
